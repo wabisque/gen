@@ -1,6 +1,6 @@
 {
   "name": "@dreamitdev/gen",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A simple cli helper for creating templated files for dreamit dev projects.",
   "type": "module",
   "main": "index.js",

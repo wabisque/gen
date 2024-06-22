@@ -1,5 +1,5 @@
 export default class Maker {
-  /** @type {bool} */
+  /** @type {boolean} */
   static get initialized() {
     return Maker.#instance != null;
   }
